@@ -1,8 +1,4 @@
-/**
- * 190315091
- * 1st ed.
- * @author Yaser Beker
- */
+
 package q1;
 
 import java.util.List;
